@@ -1,9 +1,3 @@
--- MySQL dump 10.13  Distrib 5.7.34-37, for debian-linux-gnu (x86_64)
---
--- Host: localhost    Database: easy2
--- ------------------------------------------------------
--- Server version	5.7.34-37
-
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
